@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+ Hemorrhagic     1.0000    0.9679    0.9837       218
+    Ischemic     0.9814    0.9336    0.9569       226
+   No Stroke     0.9790    0.9989    0.9888       885
+
+    accuracy                         0.9827      1329
+   macro avg     0.9868    0.9668    0.9765      1329
+weighted avg     0.9828    0.9827    0.9825      1329

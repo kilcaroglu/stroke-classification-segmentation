@@ -1,0 +1,10 @@
+5-Fold Average Performance Report
+
+            Metric          Result
+          accuracy 0.9836 ± 0.0064
+   macro_precision 0.9829 ± 0.0027
+      macro_recall 0.9727 ± 0.0149
+          macro_f1 0.9776 ± 0.0090
+weighted_precision 0.9838 ± 0.0063
+   weighted_recall 0.9836 ± 0.0064
+       weighted_f1 0.9836 ± 0.0065

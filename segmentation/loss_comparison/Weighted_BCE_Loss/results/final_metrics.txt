@@ -1,0 +1,4 @@
+Dice: 0.6820
+IoU: 0.5174
+Precision: 0.5312
+Recall: 0.9524
