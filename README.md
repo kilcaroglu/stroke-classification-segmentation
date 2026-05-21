@@ -7,9 +7,9 @@ Bu proje, beyin BT (CT) görüntülerinden inme tespiti ve lezyon segmentasyonu 
 
 ## Yazarlar
 
-- Muhammed Mustafa KİLCAROĞLU
-
 - Alperen İLHAN
+
+- Muhammed Mustafa KİLCAROĞLU
 
 ---
 
